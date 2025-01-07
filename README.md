@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+| <img src="https://github-readme-stats-eric2369.vercel.app/api?username=Eric-2369&theme=transparent&disable_animations=true&hide_border=true&include_all_commits=true&show_icons=true&number_format=long&rank_icon=percentile"> | <img src="https://github-readme-stats-eric2369.vercel.app/api/top-langs?username=Eric-2369&theme=transparent&disable_animations=true&hide_border=true&layout=compact&langs_count=8&size_weight=0.5&count_weight=0.5"> |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
 <!--
 **Eric-2369/Eric-2369** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
